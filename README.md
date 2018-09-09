@@ -1,7 +1,7 @@
 Looing for owin? The project has been renamed Edge.js and moved to https://github.com/tjanczuk/edge 
 ====
 
-Why was that done? The owin project started off as a way to host .NET [OWIN](http://owin.net) applications as express.js request handlers and connect middleware. It has since become more generic to include broader scenarios of running node.js and .NET code in-process. The old name no longer captured the new scope, and caused some confusion with the the actual OWIN specification. 
+Why was that done? The owin project started off as a way to host .NET [OWIN](http://owin.net) applications as express.js request handlers and connect middleware. It has since become more generic to include broader scenarios of running node.js and .NET code in-process. The old name no longer captured the new scope, and caused some confusion with the actual OWIN specification. 
 
 ## So what is Edge.js anyway?
 
